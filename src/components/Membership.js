@@ -18,24 +18,25 @@ function Membership() {
       }}
     >
       <h2 className="section-header" tabIndex="0">
-        Fall 2024 & Winter 2025 Membership
+        Fall 2025 & Winter 2026 Membership
       </h2>
       <div className="membership-container">
         <div className="membership-info-container">
           <h3>Membership fees</h3>
           <ul>
             <li className="bag-list-logo">
-              Membership fees are $65 per semester or $130 for two semesters.
+              Membership fees are $80 per semester or $150 for two semesters.
             </li>
             <li className="bag-list-logo">
               As a member, you are able to order training equipment through us
-              at a discount rate! Talk to one of our execs for more info.
+              at a discount rate! Talk to one of our execs for more info. 
+              You also benefit from a discount for our events.
             </li>
             <li className="bag-list-logo" style={{ color: "crimson" }}>
               {" "}
               Due to the increase in costs of room booking at the McGill Gym,
               there has been an increase in prices of our membership
-              fees in 2024.{" "}
+              fees in 2025.{" "}
             </li>
           </ul>
           <h3>Required documents</h3>

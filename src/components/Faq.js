@@ -9,8 +9,7 @@ function Faq() {
         </h2>
         <h3>How do I join the club?</h3>
         <p>
-          Simply show up to one of our training sessions and approach one of our
-          friendly execs!
+          We host trial sessions at the start of each semester. If you are interested, you can sign-up to become a member
         </p>
         <h3>Are beginners allowed?</h3>
         <p>
@@ -19,8 +18,7 @@ function Faq() {
         </p>
         <h3>Do you offer free trials?</h3>
         <p>
-          The first two classes are free. After which you can choose to pay
-          either by the semester or by the year.
+          Yes! At the start of each semester, we host trial sessions where you can come and try out the club for free.
         </p>
         <h3>Do I need to bring my own equipment?</h3>
         <p>
@@ -29,7 +27,7 @@ function Faq() {
           gloves. You will need your own mouthguard to spar (optional).
         </p>
         <h3>How do I pay the membership fees?</h3>
-        <p>We accept both cash and e-transfer to mcgillboxingclub@ssmu.ca</p>
+        <p>We use Zeffy for our payment processing. You can sign-up in the link in our Instagram bio</p>
         <h3>Do I show have to show up to both training sessions per week?</h3>
         <p>
           You can show up whenever you like. However, staying commited and

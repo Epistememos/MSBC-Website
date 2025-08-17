@@ -33,7 +33,7 @@ const Profile = ({ role, src, alt, title, name, experience, major }) => {
 function Team2023() {
   return (
     <div
-      id="past_team"
+      id=""
       style={{ padding: "5%", backgroundColor: "rgba(230, 230, 230, 0.5)" }}
     >
       <h1 className="section-header" tabIndex="0">

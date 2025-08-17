@@ -42,18 +42,17 @@ function Schedule() {
 
         <div id="schedule-info-container">
           <div id="schedule-info">
-            <h2> Fall 2024</h2>
+            <h2> Fall 2025 - TENTATIVE</h2>
             <ul className="semester-schedule">
               <li>Fridays: 4:30P.M.- 6:00P.M. </li>
               <li>Sundays: 4:30P.M. - 6:30P.M.</li>
               <li>Location: Spin Room (Inside the McGill Gym, B2)</li>
             </ul>
             <br />
-            <h2> Winter 2025</h2>
+            <h2> Winter 2026 - TBD</h2>
             <ul className="semester-schedule">
-              <li>Fridays: 4:30P.M.- 6:00P.M.</li>
-              <li>Sundays: 4:30P.M. - 6:30P.M.</li>
-              <li>Location: Spin Room (Inside the McGill Gym, B2)</li>
+              <li>TIME: TBD.</li>
+              <li>LOCATION: TBD (McGill Recreation Center)</li>
             </ul>
             <br />
           </div>
