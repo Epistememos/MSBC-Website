@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cab0f77c.css",
+    "main.js": "/static/js/main.457c8fb3.js",
+    "static/js/748.b8600966.chunk.js": "/static/js/748.b8600966.chunk.js",
+    "static/media/load3.jpg": "/static/media/load3.d18c709e079be50a12cd.jpg",
+    "static/media/load1.jpg": "/static/media/load1.33c053652b4b53919085.jpg",
+    "static/media/load2.jpg": "/static/media/load2.dd96c7fa4df9f6412e5d.jpg",
+    "static/media/load4.jpg": "/static/media/load4.790c47baea6075d24eb7.jpg",
+    "static/media/members2025.jpg": "/static/media/members2025.b0c81ba31508540a54cf.jpg",
+    "static/media/salim.png": "/static/media/salim.3b4c4564a23a5e06c36d.png",
+    "static/media/youdas.png": "/static/media/youdas.9e04abc6e8c94227b45b.png",
+    "static/media/jack.png": "/static/media/jack.f2be7aa0726a3e9f2294.png",
+    "static/media/albert.png": "/static/media/albert.044228ef0cf042d90538.png",
+    "static/media/banner.png": "/static/media/banner.848a985be2466bfb061d.png",
+    "static/media/fed2.jpeg": "/static/media/fed2.32df5cc17e02e5a21594.jpeg",
+    "static/media/schedule.jpg": "/static/media/schedule.aa66bf856c7c8c6c178d.jpg",
+    "static/media/alex.jpg": "/static/media/alex.27a87554b07167a14ba6.jpg",
+    "static/media/membership2.jpg": "/static/media/membership2.dfa9e08773d561307836.jpg",
+    "static/media/main-logo.png": "/static/media/main-logo.09f2ddee0f62b41b20dd.png",
+    "static/media/alessia.jpeg": "/static/media/alessia.817659176dc165803719.jpeg",
+    "static/media/sami2.jpeg": "/static/media/sami2.19035c298019be660f82.jpeg",
+    "static/media/kevin.png": "/static/media/kevin.36f6e30496443e4333d3.png",
+    "static/media/sarah.png": "/static/media/sarah.b8562b18ac992759c689.png",
+    "static/media/russel.jpeg": "/static/media/russel.2fcc232a35a7c0eb8340.jpeg",
+    "static/media/kevin2024.jpg": "/static/media/kevin2024.57d89d0a69d75a79d670.jpg",
+    "static/media/insurance.pdf": "/static/media/insurance.90b1647113e0264333a5.pdf",
+    "static/media/punch-man-logo.png": "/static/media/punch-man-logo.7e3f2324410b63cebc0d.png",
+    "static/media/christy.jpeg": "/static/media/christy.8b899d5c5fb659003701.jpeg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.cab0f77c.css",
+    "static/js/main.457c8fb3.js"
+  ]
+}
